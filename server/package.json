@@ -1,0 +1,10 @@
+{
+  "name": "cashier-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.1",
+    "mongoose": "^6.1.7"
+  }
+}
